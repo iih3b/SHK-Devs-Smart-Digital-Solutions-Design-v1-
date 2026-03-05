@@ -71,7 +71,7 @@ SHK-Devs-v1/
 
 ## 🤝 Built With Partner
 
-> 👩‍💻 **Khaled Alzeer** — [GitHub @iih3b]([https://github.com/iih3b](https://github.com/khaledAlzeer)) · [LinkedIn](https://www.linkedin.com/in/khaled-alzeer-60787b322)
+> 👩‍💻 **Khaled Alzeer** — [GitHub @khaledAlzeer](https://github.com/khaledAlzeer) · [LinkedIn](https://www.linkedin.com/in/khaled-alzeer-60787b322)
 
 ---
 
